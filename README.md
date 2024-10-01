@@ -28,7 +28,7 @@
 --!>
 ### 연락처
 
-* 이메일: sihyeon77@example.com
+* 이메일: jy6026@gmail.com
 * GitHub: https://github.com/Sihyeon77
 
 
