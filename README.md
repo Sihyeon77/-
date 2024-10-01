@@ -6,36 +6,29 @@
 
 ### 기술 스택
 
-[이미지: 기술 스택 차트]
-
 | 기술 | 숙련도 |
 |---|---|
-| JavaScript | 숙련 |
+| Java | 숙련 |
 | React | 중급 |
-| Node.js | 중급 |
+| TypeScript | 중급 |
 | ... | ... |
 
 ### 프로젝트
 
 #### 1. 게시판형 웹 사이트
 
-* **개요:** Node.js, Express, MongoDB를 사용하여 구현한 게시판형 웹 사이트입니다. 회원 가입, 로그인, 게시글 작성, 댓글 기능 등을 구현했습니다.
-* **기술 스택:** Node.js, Express, MongoDB, JavaScript
+* **개요:** Spring Boot, React, Postgresql을 사용하여 구현한 게시판형 웹 사이트입니다. 회원 가입, 로그인, 게시글 작성, 댓글 기능 등을 구현했습니다.
+* **기술 스택:** Spring Boot, React, Postgresql, TypeScript
 * **깃허브:** https://github.com/Sihyeon77/board-fullstack.git
-* **배운 점:** MongoDB를 처음 사용해보면서 NoSQL 데이터베이스에 대한 이해를 높였습니다.
+* **배운 점:** 웹 어플리케이션의 전반적인 흐름에 대해 배웠습니다.
 
-[이미지: 게시판 웹 사이트 스크린샷]
-
+<!--
 ### 개인적인 성장
 
-* **꾸준한 학습:** Udemy, Coursera 등 온라인 강의 플랫폼을 통해 새로운 기술을 꾸준히 학습하고 있습니다.
-* **오픈 소스 프로젝트:** GitHub에서 오픈 소스 프로젝트에 참여하여 실제 개발 환경을 경험하고 있습니다.
-
+--!>
 ### 연락처
 
 * 이메일: sihyeon77@example.com
 * GitHub: https://github.com/Sihyeon77
 
-### 마무리
 
-저는 끊임없이 배우고 성장하는 개발자가 되고 싶습니다. 귀사의 일원이 되어 함께 성장할 수 있는 기회를 얻고 싶습니다.
