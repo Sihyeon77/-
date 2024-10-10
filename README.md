@@ -17,7 +17,7 @@
 
 #### 1. 게시판형 웹 사이트
 
-* **개요:** Spring Boot, React, Postgresql을 사용하여 구현한 게시판형 웹 사이트입니다. 회원 가입, 로그인, 게시글 작성, 댓글 기능 등을 구현했습니다.
+* **개요:** Spring Boot, React, Postgresql을 사용하여 구현한 게시판형 웹 사이트입니다. 회원 가입, 로그인, 게시글 CRUD, 댓글 기능 등을 구현했습니다.
 * **기술 스택:** Spring Boot, React, Postgresql, TypeScript
 * **깃허브:** https://github.com/Sihyeon77/board-fullstack.git
 * **배운 점:** 웹 어플리케이션의 전반적인 흐름에 대해 배웠습니다.
